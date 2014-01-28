@@ -1,4 +1,4 @@
-Magnet-Ru-
+Magnet-Run
 ==========
 
-This is the new and improved game... no actually I messed up and am now creating a new thing don't kill me I'm sorry
+Magnet Run is the final project for Lauren Broadwell, Claire Farrokh, and Sophie Giuliani. The purpose of the game is to have fun. The game begins with a start screen that gives you options of 'Start,' 'Instructions,' and 'Credits.' If 'Start' is selected, you are given the option of choosing to be Lauren, Sophie, or Claire. Once the player is selected, the game begins. The student is attempting to escape from class, get safely through the hallways, and get out of the school. The student will have to avoid the teachers pacing the hallway. If they are caught by a teacher, they will receive a LOP and have to restart the game. As the student moves, they get more 'Miles.' Since the game begins with the student on the second floor, they are able to cross the bridges into AIT and APA, where they will encounter various obstacles. They are also able to access the bottom-left and top-right staircases. However, the student should generally avoid the bottom-left staircase, as being caught by Mrs. Ryan will result in immediate termination. The objective of the student is to escape via the top-left exit to the parking lot. Once they have exited the building, they win the game. 
